@@ -1,0 +1,14 @@
+.div-center{
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.p-center {
+    text-align: center;
+    padding: 10px;
+}
